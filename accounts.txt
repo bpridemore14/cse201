@@ -1,0 +1,7 @@
+Bpridemore,password,brettpridemore@gmail.com,9374697629,true
+nataliepolly,secret123,npolly5@gmail.com,9375555555,false
+miapia,password,miapia@gmail.com,9425234322,false
+ethanDonley,donleyer,donleyer@gmail.com,9375559999,true
+sigsour,password,sig@gmail.com,93712312311,false
+genoSmith,password,gSmith@gmail.com,937458882,false
+ethan,pass,email,9123432413,false
